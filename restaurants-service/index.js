@@ -21,7 +21,7 @@ const restaurants = [{
     menu: [{
         id: 0,
         name: 'Hamburger',
-        price: 10
+        price: 15
     }, {
         id: 1,
         name: 'Hot dog',
